@@ -2,7 +2,7 @@
 ## Welcome to the Matrix!
 This project will (probably) be your first experience with an Unix terminal!
 
-For this project, we used `**Ubuntu 20.04**`.
+For this project, we used `Ubuntu 20.04`.
 ## Resources
 **Read or watch:**
 
@@ -37,7 +37,7 @@ At the end of this project, you are expected to be able to [*explain to anyone*]
 - How to move or copy a file or directory
 
 ## Requirements
-- All tasks were done using `**Ubuntu 20.04**`
+- All tasks were done using `Ubuntu 20.04`
 ## Tasks :page_with_curl:
 ## 0. Create me!
 Access your sandbox and:
