@@ -1,5 +1,5 @@
-# 0x00. Shell, navigation
-## Welcome to the Matrix!
+# 0x00. Shell, navigation :file_folder:
+## Welcome to the Matrix! :sparkles:
 This project will (probably) be your first experience with an Unix terminal!
 
 For this project, we used `Ubuntu 20.04`.
