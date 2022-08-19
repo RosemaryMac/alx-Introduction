@@ -1,9 +1,9 @@
 # 0x00. Shell, navigation :file_folder:
-## Welcome to the Matrix! :sparkles:
+## Welcome to the Matrix! :party_blob:
 This project will (probably) be your first experience with an Unix terminal!
 
 For this project, we used `Ubuntu 20.04`.
-## Resources
+## Resources :open_book:
 **Read or watch:**
 
 - [*Linux navigation*](http://linuxcommand.org/lc3_lts0020.php)
@@ -26,7 +26,7 @@ For this project, we used `Ubuntu 20.04`.
 **Extra resources:**
 - [*Linux - /tmp*](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/tmp.html)
 
-## Learning Objectives
+## Learning Objectives :page_with_curl:
 At the end of this project, you are expected to be able to [*explain to anyone*](https://fs.blog/feynman-technique/), **without the help of Google**:
 
 - How to navigate in an Unix system
@@ -36,9 +36,9 @@ At the end of this project, you are expected to be able to [*explain to anyone*]
 - How to remove a file or directory
 - How to move or copy a file or directory
 
-## Requirements
+## Requirements :bookmark:
 - All tasks were done using `Ubuntu 20.04`
-## Tasks :page_with_curl:
+## Tasks :scroll:
 ## 0. Create me!
 Access your sandbox and:
 
